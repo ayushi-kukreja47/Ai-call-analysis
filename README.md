@@ -1,31 +1,32 @@
-📞 AI Call Analysis Dashboard
-Analyze call recordings using Deep Learning and get actionable insights into customer service quality.
+# 📞 AI Call Analysis Dashboard 
 
-✨ Overview
-This project implements a full-stack AI-powered Call Analysis Tool that can:
+This project implements an end-to-end AI Call Analysis Tool.
 
-🔍 Analyze call transcripts
+---
 
-🎭 Detect customer and agent sentiment
+## 🔥 It analyzes call recordings and provides critical insights such as:
 
-❓ Identify queries and resolutions
+1. **Customer and Agent Sentiment**
+2. **Query Detection**
+3. **Agent Performance Scoring**
+4. **Resolution Ratio** (queries asked vs queries resolved)
+5. **Competitor Product Mentions**
 
-🏆 Score agent performance
+---
 
-🆚 Detect competitor mentions
+## 🚀 Built with powerful Deep Learning models and served via an interactive Streamlit dashboard.
 
-📊 Visualize insights through an interactive Streamlit dashboard
+---
 
-Built with cutting-edge Deep Learning models and seamless frontend integration.
+## ✨ Features
 
-🚀 Features
-✅ Automatic Speech Recognition (Transcription)
-✅ Speaker Diarization (Separate Customer vs Agent)
-✅ Emotion Detection (Customer & Agent Sentiment Analysis)
-✅ Query Detection (via Generative AI Summarization)
-✅ Agent Performance Scoring (Sentiment + Resolution-based)
-✅ Resolution Metrics (Queries Asked vs Resolved)
-✅ Competitor Product Mention Extraction
-✅ Interactive Streamlit Dashboard
-✅ Audio Playback of Call Snippets
-✅ Beautiful Visualizations (Charts, Metrics, Tables)
+- ✅ **Speech Recognition** (Automatic Transcription)
+- ✅ **Speaker Diarization** (Identify Customer vs Agent)
+- ✅ **Emotion Detection** (Customer and Agent Sentiment)
+- ✅ **Query Detection** (via Generative AI Summarization)
+- ✅ **Agent Scoring System** (based on sentiment and resolution)
+- ✅ **Resolution Metrics** (Queries vs Resolutions)
+- ✅ **Competitor Mentions Extraction**
+- ✅ **Beautiful Streamlit Dashboard** (with charts and audio playback)
+
+---
